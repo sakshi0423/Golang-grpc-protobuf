@@ -1,5 +1,4 @@
 # Go gRPC + Protobuf Learning 2025 🚀
-# Go gRPC + Protobuf Learning 2025 🚀
 
 ## 📌 Overview  
 This repository documents my journey of learning Go from basics to advanced, with a strong focus on **gRPC** and **Protocol Buffers**.
