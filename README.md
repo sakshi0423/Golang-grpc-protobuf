@@ -17,8 +17,8 @@ This repo tracks my progress while completing
 ## 📖 Learning Progress Tracker
 
 ### ✅ Go Basics
-- [ ] Setting up Go environment  
-- [ ] Hello World program  
+- [X] Setting up Go environment  
+- [x] Hello World program  
 - [ ] Variables & Constants  
 - [ ] Data Types & Conversions  
 - [ ] Functions & Scope  
