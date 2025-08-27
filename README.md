@@ -19,7 +19,7 @@ This repo tracks my progress while completing
 ### ✅ Go Basics
 - [X] Setting up Go environment  
 - [x] Hello World program  
-- [ ] Variables & Constants  
+- [x] Variables & Constants  
 - [ ] Data Types & Conversions  
 - [ ] Functions & Scope  
 - [ ] Packages & Modules  
